@@ -3,3 +3,5 @@ Microfrontend app para la gestión de servicios de productos de pedidos ya imple
 
 
 npx create-react-app microfrontend_pedidosya_productos_react
+
+npx start
