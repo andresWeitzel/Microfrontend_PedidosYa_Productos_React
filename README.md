@@ -222,6 +222,15 @@ npm run start
 * [Instalación](https://mui.com/material-ui/getting-started/installation/)
 * [Componentes](https://mui.com/components/)
 
+#### Fundamentos React
+* [Construir app SPA](https://www.youtube.com/watch?v=P8MeyDbMEBE&t=109s)
+* [Guía de inicio react](https://react.dev/learn)
+
+#### Código y ejemplos
+* [Guía creación de formularios](https://www.copycat.dev/blog/material-ui-form/)
+* [Templates formularios](https://codesandbox.io/examples/package/mui-form)
+* [Setear una img background](https://www.freecodecamp.org/news/react-background-image-tutorial-how-to-set-backgroundimage-with-inline-css-style/)
+
 #### Herramientas
 - [Convert cURL para node-axios](https://curlconverter.com/node-axios/)
 
